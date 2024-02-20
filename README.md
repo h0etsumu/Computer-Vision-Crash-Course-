@@ -1,2 +1,2 @@
-# Computer-Vision-Crash-Course-
+# Computer-Vision-Crash-Course
 CPE32S8
